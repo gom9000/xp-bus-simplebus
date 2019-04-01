@@ -4,10 +4,10 @@ Home didactic, I/O oriented, simple 8-bit BUS-system.
 ![simplebus.jpg](.images/simplebus.jpg)
 
 ## Contents
-* [system](https://github.com/gom9000/xp-bus-simplebus/tree/master/system/) containing the schematics and pcb of the xpSimpleBUS system backplane and activity-monitor hardware.
-* [device](https://github.com/gom9000/xp-bus-simplebus/tree/master/device/) containing the schematics and pcb of the xpSimpleBUS devices hardware.
-* [bridge](https://github.com/gom9000/xp-bus-simplebus/tree/master/bridge/) containing the schematics and pcb of the xpSimpleBUS bridges hardware to interface xpSimpleBUS to a CPU or other BUS systems.
-* [expresspcb](https://github.com/gom9000/xp-bus-simplebus/tree/master/expresspcb/) containing the schematic and pcb components used for drawing the layout of xpSimpleBUS boards.
+* [system](https://github.com/gom9000/xp-simplebus/tree/master/system/) containing the schematics and pcb of the xpSimpleBUS system backplane and activity-monitor hardware.
+* [device](https://github.com/gom9000/xp-simplebus/tree/master/device/) containing the schematics and pcb of the xpSimpleBUS devices hardware.
+* [bridge](https://github.com/gom9000/xp-simplebus/tree/master/bridge/) containing the schematics and pcb of the xpSimpleBUS bridges hardware to interface xpSimpleBUS to a CPU or other BUS systems.
+* [expresspcb](https://github.com/gom9000/xp-simplebus/tree/master/expresspcb/) containing the schematic and pcb components used for drawing the layout of xpSimpleBUS boards.
 
 
 ## Specifications
