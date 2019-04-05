@@ -57,6 +57,7 @@ System operations are signal based sequence of commands, directed to DEVICEs con
 
 ### System Boards
 * **simplebus-backplane-4** - backplane with 4+1 slots.
+* **simplebus-bus-expansion** - 2-slot bus expansion.
 * **simplebus-activity-monitor** - test board for bus pins activity.
 
 ### Bridge Boards
