@@ -15,7 +15,7 @@ Moreover, interfacing bus to RPi (GPIO are 3.3V) I have powered bus to Vcc=3.3V 
 Again, for now that's enough.
 
 | levels*| RPi GPIO | HC 3V3 | HC 5V | F68A10 5V | F68A10 3V3 |
-|-------------------------------------------------------------|
+|--------|----------|--------|-------|-----------|------------|
 | PWR    |   3.3    |   3.3  |   5   |     5     |    3.3     |
 | Vih    |          |        |       |           |            |
 | Vil    |          |        |       |           |            |
