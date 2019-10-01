@@ -14,15 +14,15 @@ Again, for now that's enough.
 | Vol    |   0.1    |   0.1  |  0.1  |    0.1    |    0.1     |
 (*) measured with tester
 
-![board-built](simplebus-bridge-admux_built.jpg)
+![board-built](simplebus-device-sram-128bytes_built.jpg)
 
 
 ## Schematic
-![board-schematic](simplebus-bridge-admux_sch.jpg)
+![board-schematic](simplebus-device-sram-128bytes_sch.jpg)
 
 
 ## PCB Layout
-![board-pcb](simplebus-bridge-admux_pcb.jpg)
+![board-pcb](simplebus-device-sram-128bytes_pcb.jpg)
 
 
 ## Bill of Materials

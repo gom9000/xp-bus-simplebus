@@ -19,5 +19,6 @@
 - [x] led current limiter resistor 1Kohm
 - [x] SimpleBUS DIL 24-pin right-angle header
 
+- [x] Address-Selector DIL 16-pin header
 - [x] Input-BUS SIL 10-pin header
 - [x] IC-logic 74HC138, 74HC541
