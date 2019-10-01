@@ -1,4 +1,4 @@
-# *ADMuxBridge* Board
+# *A/D Mux Bridge* Board
 Bridge board to connect the xpSimpleBUS to an external 8-bit BUS with multiplexed address and data lines.
 
 ![board-built](simplebus-bridge-admux_built.jpg)

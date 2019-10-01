@@ -1,13 +1,14 @@
 # xpSimpleBUS - A Simple BUS System eXPerience
 Home didactic, I/O oriented, simple 8-bit BUS-system.
 
-![simplebus.jpg](.images/simplebus.jpg)
+![overview](images/simplebus.jpg)
+
 
 ## Contents
-* [system](https://github.com/gom9000/xp-simplebus/tree/master/system/) containing the schematics and pcb of the xpSimpleBUS system backplane and activity-monitor hardware.
-* [device](https://github.com/gom9000/xp-simplebus/tree/master/device/) containing the schematics and pcb of the xpSimpleBUS devices hardware.
-* [bridge](https://github.com/gom9000/xp-simplebus/tree/master/bridge/) containing the schematics and pcb of the xpSimpleBUS bridges hardware to interface xpSimpleBUS to a CPU or other BUS systems.
-* [expresspcb](https://github.com/gom9000/xp-simplebus/tree/master/expresspcb/) containing the schematic and pcb components used for drawing the layout of xpSimpleBUS boards.
+* [system](system) containing the schematics and pcb of the xpSimpleBUS system backplane and activity-monitor hardware.
+* [device](device) containing the schematics and pcb of the xpSimpleBUS devices hardware.
+* [bridge](bridge) containing the schematics and pcb of the xpSimpleBUS bridges hardware to interface xpSimpleBUS to a CPU or other BUS systems.
+* [expresspcb](expresspcb) containing the schematic and pcb components used for drawing the layout of xpSimpleBUS boards.
 
 
 ## Specifications
@@ -80,8 +81,12 @@ In order not to increase the complexity and size of the i/o pcbs, only the addre
 * Implement xpSimpleBUS based projects
 
 
+## About
+Author : Alessandro Fraschetti (mail: [gos95@gommagomma.net](mailto:gos95@gommagomma.net))
+
+
 ## Licence
-The [MIT license](https://github.com/gom9000/xp-bus-simplebus/blob/master/LICENSE/) posted in the main repository directory is applied to all the xpSimpleBUS's stuff and ExpressPCB custom components library.
+The [MIT license](LICENSE) posted in the main repository directory is applied to all the xpSimpleBUS's stuff and ExpressPCB custom components library.
 You are free to use them for any purpose, just try to give credit in the documentation of your project.
 
 
