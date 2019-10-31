@@ -5,5 +5,5 @@ Software driver to connect xpSimpleBUS to RaspberryPi through the *A/D Mux Bridg
 
 
 ## Software
-* **xpSimpleBUS Diagnostic Tool** - 
+* **xpSimpleBUS Diagnostic Tool**
 > ![screenshot](simplebus-interface-rpi-diagnostic.jpg)
