@@ -11,7 +11,7 @@
 # Version....: 1.0 2019/03/31
 # Description: xpSimpleBUS Hardware Diagnostic Tool
 # URL........: 
-# License....: This code is under MIT License (https://github.com/gom9000/xp-bus-simplebus/blob/master/LICENSE)
+# License....: This code is under MIT License (https://github.com/gom9000/xp-simplebus/blob/master/LICENSE)
 #
 
 

@@ -8,6 +8,7 @@ Home didactic, I/O oriented, simple 8-bit BUS-system.
 * [system](system) containing the schematics and pcb of the xpSimpleBUS system backplane and activity-monitor hardware.
 * [device](device) containing the schematics and pcb of the xpSimpleBUS devices hardware.
 * [bridge](bridge) containing the schematics and pcb of the xpSimpleBUS bridges hardware to interface xpSimpleBUS to a CPU or other BUS systems.
+* [if-rpi](interface-rpi) containing the software and hardware resources to interface xpSimpleBUS to RaspberryPI.
 * [expresspcb](expresspcb) containing the schematic and pcb components used for drawing the layout of xpSimpleBUS boards.
 
 

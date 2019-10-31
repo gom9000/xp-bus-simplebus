@@ -1,5 +1,5 @@
 # xpSimpleBUS Interface to RPi
-Software driver to connect xpSimpleBUS to RaspberryPi.
+Software driver to connect xpSimpleBUS to RaspberryPi through the *A/D Mux Bridge* board.
 
 ![overview](simplebus-interface-rpi.jpg)
 
